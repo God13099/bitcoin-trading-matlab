@@ -43,13 +43,7 @@ Deterministic pseudo-random adjustment
 Smart stop-loss with oversold protection
 
 ## 📊 Output Example
---- Wallet balance per day (BTC value) ---
-09/04/2021 : 5.6131 BTC
-09/05/2021 : 5.6131 BTC
-...
-Final BTC balance: 7.4284 BTC
-Final USD value (converted): 823587.40 USD
-
+<img width="672" height="250" alt="image" src="https://github.com/user-attachments/assets/4499bc75-24b1-4126-94b6-5bec64ff4949" />
 ## Author
 
 Liyuan Cao

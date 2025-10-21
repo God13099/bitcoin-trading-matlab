@@ -1,4 +1,4 @@
-# bitcoin-trading-matlab
+# Bitcoin-trading-matlab
 
 Automated Bitcoin trading strategy in MATLAB using ATR and momentum signals
 

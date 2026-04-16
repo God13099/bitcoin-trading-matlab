@@ -25,7 +25,6 @@ Bitcoin-trading-matlab/
 
 ### Signal Generation
 
-### Signal Generation
 The core logic relies on normalizing price action against volatility. The buy/sell triggers are defined by:
 
 $$
